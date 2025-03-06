@@ -76,6 +76,9 @@ sales)
 **Peak hours and days?** → Helps in staffing decisions  
 **Sales trends over time?** → Helps predict future sales  
 
+# Results  
+![Alt text](https://github.com/vrushaliwaykar/Coffee_Shop_Sales_Analysis/blob/main/Coffee%20Shop%20Sales%20Dashboard.PNG?raw=true)
+
 # Conclusion  
 
 The Coffee Shop Sales Analysis dashboard provides valuable insights into the shop’s sales 
