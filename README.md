@@ -71,10 +71,10 @@ sales)
 • Analyze customer spending behavior.  
 • Sales performance vary by days and hours.  
 
-Which coffee sells the most? → Helps optimize inventory  
-Which payment method is preferred? → Helps with financial planning  
-Peak hours and days? → Helps in staffing decisions  
-Sales trends over time? → Helps predict future sales  
+**Which coffee sells the most?** → Helps optimize inventory  
+**Which payment method is preferred?** → Helps with financial planning  
+**Peak hours and days?** → Helps in staffing decisions  
+**Sales trends over time?** → Helps predict future sales  
 
 # Conclusion  
 
